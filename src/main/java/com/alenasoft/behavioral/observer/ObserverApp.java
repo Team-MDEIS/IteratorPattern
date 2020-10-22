@@ -19,6 +19,6 @@ public class ObserverApp {
     model.attach(pieChartView);
 
     model.setMaxAge(100);
-    //model.setMinAge(10);
+    model.setMinAge(900);
   }
 }
