@@ -1,4 +1,4 @@
-package com.alenasoft.behavioral.iterator;
+package com.alenasoft.behavioral.iterator.google;
 
 public class GoogleApi {
 

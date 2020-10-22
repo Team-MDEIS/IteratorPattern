@@ -1,4 +1,6 @@
-package com.alenasoft.behavioral.iterator;
+package com.alenasoft.behavioral.iterator.google;
+
+import com.alenasoft.behavioral.iterator.shared.Iterator;
 
 public class GoogleUserIterator implements Iterator {
 

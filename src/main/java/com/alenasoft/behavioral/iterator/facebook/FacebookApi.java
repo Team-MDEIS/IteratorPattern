@@ -1,4 +1,4 @@
-package com.alenasoft.behavioral.iterator;
+package com.alenasoft.behavioral.iterator.facebook;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,7 +1,8 @@
-package com.alenasoft.behavioral.iterator;
+package com.alenasoft.behavioral.iterator.cre;
+
+import com.alenasoft.behavioral.iterator.shared.Iterator;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 
 public class CREUserIterator implements Iterator {

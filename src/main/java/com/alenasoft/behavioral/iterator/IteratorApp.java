@@ -1,5 +1,11 @@
 package com.alenasoft.behavioral.iterator;
 
+import com.alenasoft.behavioral.iterator.cre.CREUserAggregate;
+import com.alenasoft.behavioral.iterator.facebook.FacebookUserAggregate;
+import com.alenasoft.behavioral.iterator.google.GoogleUserAggregate;
+import com.alenasoft.behavioral.iterator.shared.Aggregate;
+import com.alenasoft.behavioral.iterator.shared.Iterator;
+
 public class IteratorApp {
 
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.alenasoft.behavioral.iterator;
+package com.alenasoft.behavioral.iterator.shared;
 
 public interface Iterator {
 

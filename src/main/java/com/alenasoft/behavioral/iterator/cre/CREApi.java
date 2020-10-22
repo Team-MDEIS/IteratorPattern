@@ -1,9 +1,6 @@
-package com.alenasoft.behavioral.iterator;
+package com.alenasoft.behavioral.iterator.cre;
 
-import java.util.Arrays;
 import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 
 public class CREApi {
 
@@ -13,6 +10,4 @@ public class CREApi {
         users.put(2, new UserData("Pedro", "Plan 3000",20f));
         return users;
     }
-
-
 }

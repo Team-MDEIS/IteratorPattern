@@ -1,4 +1,6 @@
-package com.alenasoft.behavioral.iterator;
+package com.alenasoft.behavioral.iterator.facebook;
+
+import com.alenasoft.behavioral.iterator.shared.Iterator;
 
 import java.util.List;
 

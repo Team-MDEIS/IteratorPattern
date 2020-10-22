@@ -1,4 +1,4 @@
-package com.alenasoft.behavioral.iterator;
+package com.alenasoft.behavioral.iterator.cre;
 
 public class UserData {
     private String name;
