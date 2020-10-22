@@ -1,4 +1,7 @@
-package com.alenasoft.behavioral.observer;
+package com.alenasoft.behavioral.observer.views;
+
+import com.alenasoft.behavioral.observer.models.Model;
+import com.alenasoft.behavioral.observer.shared.Observer;
 
 public class BarChartView implements Observer {
 

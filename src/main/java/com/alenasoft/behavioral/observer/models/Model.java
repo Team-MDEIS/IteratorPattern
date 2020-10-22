@@ -1,4 +1,6 @@
-package com.alenasoft.behavioral.observer;
+package com.alenasoft.behavioral.observer.models;
+
+import com.alenasoft.behavioral.observer.shared.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
